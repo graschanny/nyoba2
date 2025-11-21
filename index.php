@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello Coxo</title>
-    <link rel="stylesheet" href="style.css"> 
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-    <?php
-    echo "Hello, Coxo!";
-    ?>
+    <p>Tugas GIT FETCH</p>
+    <h1>Zen Bodhi Windhiarto</h1>
+    <h2>23.N1.0038</h2>
 </body>
 </html>
