@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo "Hello, Coxo!";
+    echo "Mochi Lulu Coco";
     ?>
 </body>
 </html>
